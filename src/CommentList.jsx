@@ -11,8 +11,8 @@ const comments = [
     comment: "리액트 재미있어요~!",
   },
   {
-    name: "이두희",
-    comment: "저도 리액트 배워보고 싶어요!!",
+    name: "이세민",
+    comment: "반갑습니다.",
   },
 ];
 
